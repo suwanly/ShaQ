@@ -143,3 +143,8 @@ If you find this work useful in your research, please cite:
   year={2026}
 }
 ```
+
+## Acknowledgement
+
+We thank the NeurIPS reviewers for their valuable comments and suggestions. This work is supported by the National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT) (No. RS-2024-00358602) and the Institute of Information & Communications Technology Planning & Evaluation (IITP) grant funded by the Korea government (MSIT), Artificial Intelligence Graduate School Program (No. RS-2019-II190079, Korea University), the Artificial Intelligence Star Fellowship Support Program to nurture the best talents (No.~RS-2025-02304828), and the AI Research Hub Project (No. RS-2024-00457882). Also, this research was supported by the AI Seoul Tech Research Support Program of the Seoul Future Foundation.
+
