@@ -15,7 +15,7 @@ Korea University\
 \* Corresponding Author
 
 ## Installation
-Some of our code is based on [ICE]https://github.com/UCSB-NLP-Chang/llm_uncertainty.
+Some of our code is based on [ICE](https://github.com/UCSB-NLP-Chang/llm_uncertainty).
 
 ```bash
 conda env create -f environment.yml
